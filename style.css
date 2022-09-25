@@ -1,0 +1,61 @@
+nav{
+    display: block;
+}
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+.green{
+    color: green;
+    position: absolute;
+    left: 40px;
+    padding: 1px;
+}
+.right{
+    margin-left: 50%;
+    padding: 30px;
+}
+.startbtn{
+    background-color: white;
+    border: 2px solid green;
+    padding: 4px;
+    color: green;
+}
+.contact{
+    text-align: center;
+}
+.info{
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 100px;
+}
+.form label{
+    display: block;
+    width: 50%;
+    margin-left: 40%;
+    margin-right: 30%;
+    
+}
+.form input{
+ 
+    margin-left: 40%;
+    margin-right: 30%;
+    
+}
+.message{
+
+    height: 200px;
+}
+.send{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 15px;
+    width: 190px;
+    background-color: green;
+    color: white;
+    border: 2px solid white;
+    border-radius: 13%;
+
+}
+
